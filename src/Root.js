@@ -1,9 +1,12 @@
-function App() {
+import Form from './components/Form/Form';
+import { Wrapper } from './Root.styles';
+
+function Root() {
   return (
-    <div className="App">
-      <h1>xD</h1>
-    </div>
+    <Wrapper>
+      <Form />
+    </Wrapper>
   );
 }
 
-export default App;
+export default Root;
