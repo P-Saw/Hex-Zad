@@ -1,5 +1,5 @@
 import TextField from '@mui/material/TextField';
-import { StyledErrorMessage } from './Form/Form.style';
+import { StyledErrorMessage } from '../Form/Form.style';
 
 const NameInput = ({ input, meta }) => {
   return (

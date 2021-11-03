@@ -1,7 +1,7 @@
 import InputLabel from '@mui/material/InputLabel';
 import FormControl from '@mui/material/FormControl';
 import Select from '@mui/material/Select';
-import { StyledErrorMessage } from './Form/Form.style';
+import { StyledErrorMessage } from '../Form/Form.style';
 
 const SelectInput = ({ input, children, meta, ...rest }) => {
   return (
