@@ -1,5 +1,4 @@
 import Slider from '@mui/material/Slider';
-import Typography from '@mui/material/Typography';
 import LocalFireDepartmentIcon from '@mui/icons-material/LocalFireDepartment';
 import styled from 'styled-components';
 import { red } from '@mui/material/colors';
